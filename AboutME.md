@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Fiorecacciatore
-- 👀 I’m interested in all Computer science
-- 🌱 I’m currently learning web & game development.
-- 📙 I currently partly understand languages such as Python, Unity-C#, Java, Javascript, CSS, and HTML.
-- 🌐 Find me at "Hunter.platania@gmail.com"
